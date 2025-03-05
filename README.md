@@ -6,8 +6,6 @@
 
 <a  href="https://www.linkedin.com/in/virenhooda"><img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Badge"></a>
 
-<p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=virenhooda27"  alt="virenhooda" /></a>  </p>
-
 
 <a align="left">  <img  src="https://komarev.com/ghpvc/?username=virenhooda27&label=Profile%20views&color=0e75b6&style=flat"  alt="virenhooda27" />  </p>
 
