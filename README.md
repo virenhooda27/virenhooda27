@@ -78,12 +78,4 @@ I am a Full Stack Developer <img  src="https://media.giphy.com/media/WUlplcMpOCE
 
 
 
----
 
-  
-
-###  ✍️ Blog Posts :
-
--  Coming Soon 😉
-
-<!-- BLOG-POST-LIST:END -->
